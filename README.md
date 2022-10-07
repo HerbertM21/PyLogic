@@ -11,4 +11,5 @@
 </tr>
 </table>
 
-> - Objetivo: Ciencia de datos y desarrollo web.
+## 📋 **Objetivo**
+> **Ciencia de datos** y **desarrollo web**.

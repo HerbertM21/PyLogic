@@ -1,4 +1,4 @@
-> # Logic-python
+# **Logic-python**
 > **Repositorio usado para desarrollar la lógica de programación a nivel avanzado con Python.** 
 
 ## 💻 **Herramientas usadas**
